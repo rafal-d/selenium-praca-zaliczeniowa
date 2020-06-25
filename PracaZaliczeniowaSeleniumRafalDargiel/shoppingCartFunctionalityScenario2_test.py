@@ -1,6 +1,5 @@
 import unittest
 from selenium import webdriver
-from time import sleep
 
 class BasektFunctionalityScenario_2(unittest.TestCase):
 
